@@ -1,4 +1,4 @@
-let song = new Audio("sound.mp3");
+let song = new Audio("sting.mp3");
 document.querySelector(".gift-button").addEventListener("click", function() {
     song.play();
     const body = document.body;
