@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: wheat;
+    background: #7DF9FF;
     background-size: cover;
     background-position: center;
     transition: background 3s ease;
